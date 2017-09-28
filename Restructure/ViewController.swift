@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Restructure
-//
+//  Authors: Irvider Kaur (30092958) & Akshit Upneja (300976590)
 //  Created by Akshit Upneja on 2017-09-27.
 //  Copyright © 2017 Centennial College. All rights reserved.
 //
